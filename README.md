@@ -9,7 +9,7 @@ Make sure you have everything you need specified in the prerequisites section
 node.js\
 webpack\
 webpack-cli\
-webpack-server\
+webpack-server
 
 
 
@@ -25,7 +25,7 @@ npm install
 
 ## Deployment Team
 
-Daniel Lazarte\
+Daniel Lazarte from Peru with ♥
 
 
 ## Versioning
