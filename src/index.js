@@ -1,0 +1,1 @@
+import './component/live-covid.component';
