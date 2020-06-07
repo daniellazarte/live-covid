@@ -1,7 +1,7 @@
 # COVID-19 Live Component
 A simple grid to show information related covid-19
-## Special Thanks
-
+## Special Thanks 
+KODOTI is an e-learning platform specialized in technology and management courses, which seeks to make its students grow professionally through a project-oriented methodology.
 ## Getting Started
 Make sure you have everything you need specified in the prerequisites section
 
